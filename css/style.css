@@ -4,7 +4,7 @@
 */
 
 body {
-  background-color: powderblue;
+  background-color: #506d71;
   font-size: 10pt;
   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
   color: black;
@@ -18,31 +18,31 @@ h1 {
   font: 16pt Verdana, Geneva, Arial, Helvetica, sans-serif;
   font-weight: bold;
   line-height: 20pt;
-  color: slateblue;
+  color: #ffffff;
 }
 
 h2 {
   font: 14pt Verdana, Geneva, Arial, Helvetica, sans-serif;
   font-weight: bold;
   line-height: 18pt;
-  color: mediumseagreen;
+  color: #ffffff;
 }
 
 h3 {
   font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif;
   font-weight: bold;
   line-height: 16pt;
-  color: violet;
+  color: #ffffff;
 }
 
 p.subheader {
   font-weight: bold;
-  color: #593d87;
+  color: #ffffff;
 }
 
 div {
   font-weight: bold;
-  color: #ee6d9e;
+  color: #ffffff;
   margin: 5px;
 }
 
